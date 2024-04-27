@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "templates": [
+      {
+        "template": "event_factory",
+        "filename": "event_factory"
+      },
+      {
+        "template": "event_type_helper",
+        "filename": "event_type_helper"
+      }
+    ]
+  },
+  "data": [
+    "close",
+//    "error",
+    "message",
+  ]
+}

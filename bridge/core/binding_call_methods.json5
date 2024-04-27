@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "templates": [
+      {
+        "template": "make_names",
+        "filename": "binding_call_methods"
+      }
+    ]
+  },
+  "data": [
+    "open",
+    "target",
+    "rel",
+    "type",
+    "text",
+    "hash",
+    "alt",
+    "src",
+    "srcset",
+    "complete",
+    "currentSrc",
+    "decoding",
+    "fetchPriority",
+    "loading",
+    "noModule",
+    "async",
+    "getContext",
+    "reset",
+    "defaultValue",
+    "value",
+    "disabled",
+    "multiple",
+    "name",
+    "step",
+    "pattern",
+    "required",
+    "readonly",
+    "placeholder",
+    "dispatchEvent",
+    "getModifierState",
+    "class",
+    "syncPropertiesAndMethods",
+    "getPropertyValue",
+    "setProperty",
+    "removeProperty",
+    "length",
+    "domain",
+    "compatMode",
+    "readyState",
+    "matches",
+    "closest",
+    "dir"
+  ]
+}
